@@ -1,1 +1,1 @@
-i am working now
+Display the content of the /etc/passwd file.
